@@ -1,1 +1,3 @@
 two
+
+here we doing the same as in 1
